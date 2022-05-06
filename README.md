@@ -1,5 +1,5 @@
 # Designs
-Coding Design patterns using Java
+Coding Design patterns using Java.
 This is the Factory design pattern.
 
 Definition:
